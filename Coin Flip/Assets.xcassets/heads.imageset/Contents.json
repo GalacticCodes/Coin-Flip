@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "coin-quarter-image-united-states-of-america-united-states-mint-png-favpng-sxG3V0a84H2wLs6S6YCvyXgaQ.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
